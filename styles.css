@@ -1,0 +1,49 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    width: 100%;
+    background-color: rgb(228, 231, 230);
+    padding: 25px 0;
+}
+
+.cabecera-post {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+    margin: 50px 0 5px 0;
+
+}
+
+.cabecera-post p {
+    margin: 0;
+    color: grey;
+    font-weight: 300px;;
+}
+
+
+.imagen {
+    width: 800px;
+}
+
+img {
+    width: 100%;
+}
+
+.texto-post {
+   padding: 25px 10px;
+    
+}
+
+h2{
+    margin: 0;
+}
+
